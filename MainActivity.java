@@ -1,4 +1,4 @@
-package com.example.sourabh.smartmuseum;
+package com.example.smartmuseum;
 
 import android.content.Context;
 import android.net.wifi.ScanResult;

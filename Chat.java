@@ -1,4 +1,4 @@
-package com.example.sourabh.smartmuseum;
+package com.example.smartmuseum;
 
 import android.util.Log;
 
@@ -10,8 +10,9 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 
 /**
- * Created by Sourabh on 05/03/2016.
+ * Created on 05/03/2016.
  */
+
 public class Chat {
     private Socket socket              = null;
     private DataInputStream console    = null;
@@ -20,7 +21,7 @@ public class Chat {
     public static boolean isconnected = false;
 
     public Chat(String serverName, int serverPort){
-        //System.out.println("Verbindungsaufbau. Bitte warten ...");
+        //System.out.println("Please wait ...");
         try{
             socket = new Socket(serverName, serverPort);
             //  Log.d("DEBUG", "Connected: " + socket);

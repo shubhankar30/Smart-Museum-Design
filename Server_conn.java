@@ -1,7 +1,7 @@
-package com.example.sourabh.smartmuseum;
+package com.example.smartmuseum;
 
 /**
- * Created by Sourabh on 05/03/2016.
+ * Created on 05/03/2016.
  */
 public class Server_conn implements Runnable {
     Thread thread;

@@ -1,4 +1,4 @@
-# Smart-Museum-Design-
+# Smart-Museum-Design:WORK-IN-PROGRESS############################
 
 The current localization techniques heavily depend upon theGlobal Positioning System (GPS)technology. However, this technology has its limits in indoor locations. In
 places like malls and underground parking’s, the GPS accuracy is greatly affected. Indoor localization requires higher accuracy and thus the use of GPS is not feasible in

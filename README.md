@@ -1,4 +1,4 @@
-# Smart-Museum-Design:
+# Smart Museum Design:
 
 This project explores the possibility of using the Wi-Fi and Bluetooth signal strength to determine indoor location of the user. In this project, an indoor localization technique is proposed for a scenario of a museum environment. Moreover, after estimating the position, context based information is provided to the user. 
 

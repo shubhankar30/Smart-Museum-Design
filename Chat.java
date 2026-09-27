@@ -79,7 +79,7 @@ public class Chat {
             Log.d("DEBUG","Sending error: " + ioe.getMessage());
         }
     }
-    public void recieve(){
+    public void receive(){
         try{
             open();
             boolean done = false;
